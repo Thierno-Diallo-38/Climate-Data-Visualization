@@ -3,11 +3,20 @@ Climate Data Visualization
 Project Overview
 This project analyzes global temperature anomalies from 1880 to 2024. Using Python, we explore historical trends, identify key milestones, and highlight the impact of events like the Paris Agreement. The goal is to visualize global warming trends and provide insights into how industrialization and climate policies have shaped temperature patterns over time.
 
+
+
+
+
+
 Objectives
 Visualize global temperature anomalies from 1880 to 2024.
 Identify long-term warming trends using rolling averages.
 Compare warming rates before and after 1950.
 Highlight significant climate-related events, such as the Paris Agreement.
+
+
+
+
 Data
 Source: Generated dataset based on global temperature anomalies.
 Structure:
@@ -18,6 +27,10 @@ Dataset Summary:
 Mean anomaly: 0.212°C.
 Min anomaly: -0.561°C (cooler than baseline).
 Max anomaly: 1.041°C (warmer than baseline).
+
+
+
+
 Findings
 Long-Term Trends:
 
@@ -32,6 +45,11 @@ Significant Events:
 
 The Paris Agreement (2015) is highlighted as a key climate policy milestone.
 Persistent warming trends over the past 50 years.
+
+
+
+
+
 Visualizations
 Line Chart: Global Temperature Anomalies (1880–2024)
 
@@ -42,5 +60,7 @@ Smooths short-term fluctuations to emphasize long-term warming trends.
 Bar Chart: Recent Trends (1975–2024)
 
 Focuses on the last 50 years, showing consistent warming and record-breaking anomalies.
+
+
 Conclusion
 This project demonstrates a clear global warming trend, with significant acceleration post-1950. The findings emphasize the importance of policy interventions, such as the Paris Agreement, in mitigating climate change. Continued monitoring and analysis of temperature anomalies are crucial for understanding the effectiveness of climate actions.
