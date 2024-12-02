@@ -1,5 +1,5 @@
 # Climate-Data-Visualization
-# Climate Data Visualization
+
 
 ## Project Overview
 This project analyzes global temperature anomalies from 1880 to 2024. Using Python, we explore historical trends, identify key milestones, and highlight the impact of events like the Paris Agreement. The goal is to visualize global warming trends and provide insights into how industrialization and climate policies have shaped temperature patterns over time.
