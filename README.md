@@ -37,7 +37,7 @@ This project analyzes global temperature anomalies from 1880 to 2024. Using Pyth
 ## Visualizations
 
 ### 1. Global Temperature Anomalies (1880–2024)
-![Global Temperature Anomalies](images/Global%20Temperature%20Anomalies%20(1880%20to%202024).png)
+![Global Temperature Anomalies](images/Global_Temperature_Anomalies_1880_to_2024.png)
 
 
 ### 2. Global Temperature Anomalies with Rolling Average
