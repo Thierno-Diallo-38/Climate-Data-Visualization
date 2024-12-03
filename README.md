@@ -37,13 +37,14 @@ This project analyzes global temperature anomalies from 1880 to 2024. Using Pyth
 ## Visualizations
 
 ### 1. Global Temperature Anomalies (1880–2024)
-![Global Temperature Anomalies](images/Global_Temperature_Anomalies_1880_to_2024.png)
+![Global Temperature Anomalies](images/Global%20Temperature%20Anomalies%20(1880%20to%202024).png)
 
 ### 2. Global Temperature Anomalies with Rolling Average
-![Global Temperature Anomalies with Rolling Average](images/Global_Temperature_Anomalies_with_Rolling_Average.png)
+![Global Temperature Anomalies with Rolling Average](images/Global%20Temperature%20Anomalies%20with%20Rolling%20Average.png)
 
 ### 3. Temperature Anomalies Over Last 50 Years (1975–2024)
-![Temperature Anomalies Over Last 50 Years](images/Temperature_Anomalies_Over_Last_50_Years_1975_to_2024.png)
+![Temperature Anomalies Over Last 50 Years](images/Temperature%20Anomalies%20over%20last%2050%20years%20(1975%20to%202024).png)
+
 
 ## Conclusion
 This project demonstrates a clear global warming trend, with significant acceleration post-1950. The findings emphasize the importance of policy interventions, such as the Paris Agreement, in mitigating climate change. Continued monitoring and analysis of temperature anomalies are crucial for understanding the effectiveness of climate actions.
